@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="MyTestSuite">
+  <test name="MyTests">
+    <classes>
+      <class name="selenium2k25.AreaOfCircle"/>
+      <!-- Add other classes if needed -->
+    </classes>
+  </test>
+</suite>
